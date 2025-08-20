@@ -1,4 +1,4 @@
-package com.raxrot.principlesandstrategies;
+package com.raxrot.principleasandstrategies;
 
 public class ProgrammingToInterface {
     public static void main(String[] args) {

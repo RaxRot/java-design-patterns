@@ -1,4 +1,4 @@
-package com.raxrot.delegationprinciple;
+package com.raxrot.principleasandstrategies;
 
 public class DelegationPriciple {
     public static void main(String[] args) {
