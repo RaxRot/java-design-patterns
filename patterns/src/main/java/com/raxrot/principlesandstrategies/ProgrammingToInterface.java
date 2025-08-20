@@ -2,6 +2,7 @@ package com.raxrot.principlesandstrategies;
 
 public class ProgrammingToInterface {
     public static void main(String[] args) {
+
         Computer computer = new Computer();
         displayModule monitor=new Monitor();
         displayModule projector=new Projector();
@@ -43,5 +44,4 @@ class Computer {
         dm.display();
     }
 }
-
 
