@@ -1,4 +1,4 @@
-package com.raxrot.creationaldesignptterns.factory;
+package com.raxrot.creationaldesignpatterns.factory;
 
 public abstract class AbstractShapeFactory {
     protected abstract Shape factoryMethod();

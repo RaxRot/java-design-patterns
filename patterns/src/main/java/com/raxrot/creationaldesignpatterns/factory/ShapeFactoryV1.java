@@ -1,4 +1,4 @@
-package com.raxrot.creationaldesignptterns.factory;
+package com.raxrot.creationaldesignpatterns.factory;
 
 public class ShapeFactoryV1 {
     public Shape getShape(String shapeType) {

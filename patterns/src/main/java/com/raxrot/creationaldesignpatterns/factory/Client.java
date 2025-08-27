@@ -1,4 +1,4 @@
-package com.raxrot.creationaldesignptterns.factory;
+package com.raxrot.creationaldesignpatterns.factory;
 
 public class Client {
     public static void main(String[] args) {
